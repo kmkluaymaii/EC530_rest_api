@@ -1,6 +1,6 @@
 ## FDA Notes FastAPI 
 
-This simple FastAPI will manahe user accounts, store personal notes, and fetch adverse events data from the FDA database for specific drugs.
+This simple FastAPI will manage user accounts, store personal notes, and fetch adverse events data from the FDA database for specific drugs.
 
 ## API Endpoints ##
 1. **Accounts**: 
